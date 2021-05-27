@@ -14,3 +14,14 @@ Launch EC2 Instance through AWS CLI
 ![7](https://user-images.githubusercontent.com/84776750/119848225-45c47780-bf29-11eb-9a3f-d3d7c99169e4.PNG)
 ![8](https://user-images.githubusercontent.com/84776750/119848227-465d0e00-bf29-11eb-9977-377cb2994432.PNG)
 ![9](https://user-images.githubusercontent.com/84776750/119848228-465d0e00-bf29-11eb-9e51-3efc13f42a08.PNG)
+
+Create Bucket through CLI
+
+
+
+Create Cloudfront distribution
+
+
+
+Create Volume
+
